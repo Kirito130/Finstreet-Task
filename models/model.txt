@@ -1,0 +1,1 @@
+The model for the Database is mentioned in hodlinfo.js file

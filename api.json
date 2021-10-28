@@ -1,0 +1,17 @@
+{ 
+   "btcinr": 
+   { 
+      "base_unit": "btc",
+      "quote_unit": "inr",
+      "low": "4654905.0",
+      "high": "4875893.0",
+      "last": "4732000.0",
+      "type": "SPOT",
+      "open": 4823101.0,
+      "volume": "399.84102",
+      "sell": "4740000.0",
+      "buy": "4730000.0",
+      "at": 1635342962,
+      "name": "BTC/INR" 
+   },
+   "xrpinr": { "base_unit": "xrp", "quote_unit": "inr", "low": "79.489", "high": "89.6888", "last": "81.5001", "type": "SPOT", "open": 86.2028, "volume": "2404711.1", "sell": "81.6", "buy": "81.5002", "at": 1635342962, "name": "XRP/INR" }, "ethinr": { "base_unit": "eth", "quote_unit": "inr", "low": "317000.0", "high": "336191.9", "last": "320570.6", "type": "SPOT", "open": 324850.0, "volume": "1212.1534", "sell": "320570.6", "buy": "320150.0", "at": 1635342962, "name": "ETH/INR" }, "trxinr": { "base_unit": "trx", "quote_unit": "inr", "low": "7.2", "high": "8.0315", "last": "7.4254", "type": "SPOT", "open": 8.0, "volume": "24942359.0", "sell": "7.4263", "buy": "7.4254", "at": 1635342962, "name": "TRX/INR" }, "eosinr": { "base_unit": "eos", "quote_unit": "inr", "low": "335.0", "high": "376.97", "last": "342.0", "type": "SPOT", "open": 374.97, "volume": "51633.58", "sell": "342.0", "buy": "341.52", "at": 1635342962, "name": "EOS/INR" }, "zilinr": { "base_unit": "zil", "quote_unit": "inr", "low": "7.71", "high": "8.61", "last": "7.83", "type": "SPOT", "open": 8.55, "volume": "2639792.0", "sell": "7.81", "buy": "7.8", "at": 1635342962, "name": "ZIL/INR" }, "batinr": { "base_unit": "bat", "quote_unit": "inr", "low": "51.001", "high": "57.168", "last": "52.646", "type": "SPOT", "open": 55.5, "volume": "208938.42", "sell": "52.62", "buy": "52.501", "at": 1635342962, "name": "BAT/INR" }, "zrxinr": { "base_unit": "zrx", "quote_unit": "inr", "low": "75.0", "high": "85.71", "last": "77.0", "type": "SPOT", "open": 83.58, "volume": "77771.14", "sell": "77.0", "buy": "76.87", "at": 1635342962, "name": "ZRX/INR" } }

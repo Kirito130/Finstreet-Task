@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+body {
+   margin: 0;
+   font-family: "Oswald", sans-serif;
+   background: #191d28;
+}
+
+.navbar-brand {
+   margin: 0.5em 0.4em 0;
+}
+
+.navbar-brand > img{
+   height: 1.9em;
+}
+
+.navbar-brand > h6 {
+   margin: -0.3em 0.3em 1em;
+   color: #808288;
+   opacity: 0.8;
+   font-size: 0.7em;
+   font-weight: 400;
+}
+
+.navbar-brand > h6 > span {
+   color: #3dc6c1;
+}
+
+.nav-button {
+   color: #fff !important;
+   background: #2e3241;
+   padding: 0.2em 0.9em !important;
+   margin: 1.6em 0.5em 0.8em;
+   border-radius: 0.5em
+}
+
+.telegram {
+   color: #fff !important;
+   background: #3dc6c1;
+   padding: 0.4em 1em 0.4em !important;
+   margin: 1.6em 0.5em 0.8em;
+   border-radius: 0.5em
+}
+
+.telegram > img {
+   height: 1em;
+   margin: 0 0.5em 0 0 ;
+}
+
+.cont {
+   margin-top: 0.5em;
+   text-align: center;
+   color: #fff;
+}
+
+.percent {
+   color: #3dc6c1;
+   font-size: 2em;
+   margin-top: 1.8em;
+}
+
+.best {
+   font-size: 4em;
+}
+
+.spans {
+   display: block;
+   color: #808288;
+   font-size: 0.5em;
+}
+
+.spanUp, .spanDown {
+   display: block;
+   color: #808288;
+}
+
+.spanUp {
+   font-size: 0.35em;
+}
+
+.spanDown {
+   font-size: 0.2em;
+   margin-top: 0.6em;
+}
+
+.cont img {
+   margin: 1.5em;
+}
+
+.apitable {
+   margin: 1em 1.5em !important;
+}
+
+.apitable thead {
+   color: #808288 ;
+}
+
+.apitable tbody {
+    color: #fff;
+}
+
+table, thead, tr {
+   width: 100%;
+   font-size: 1.06em !important;
+   margin-left: 0.2em;
+   text-align: center;
+}
+
+tr, th, td {
+   border: none !important;
+}
+
+.colst {
+   text-align: start;
+}
+
+thead .cols {
+   margin-left: 0.5em;
+   margin-right: 2em !important;
+}
+
+tbody .cols {
+   background: #2e3241;
+   padding: 0.6em;
+   border-radius: 0.5em;
+   margin: 1em 0 0 !important;
+}
+
+.cont2 {
+   text-align: center;
+   margin: 2.5em 0 1em;
+}
+
+.foot {
+   font-size: 0.6em;
+   margin: 1em 2em 2em;
+}
+
+.foot > div {
+   padding: 0;
+}
+
+.foot a {
+   text-decoration: none;
+   color: #808288;
+}
+
+pre > a {
+   font-family: "Oswald", sans-serif;
+}
+
+pre a span {
+   color: #3dc6c1;
+}
+
+.foot-end {
+   text-align: end;
+}

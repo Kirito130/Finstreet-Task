@@ -1,0 +1,2 @@
+Create Database named hodlinfo
+Create Collection named hodlinfos
